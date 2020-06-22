@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Martin Began <martin.began@kiwi.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "gatsby build"
+  },
   "dependencies": {
     "@reach/dialog": "^0.10.4",
     "@reach/tabs": "^0.10.4",
